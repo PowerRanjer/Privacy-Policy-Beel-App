@@ -58,7 +58,8 @@ We cannot remotely access or delete the recordings, clips, or library stored on 
 
 ## Contact
 
-**Power Ranjer**  
+**Power Ranjer**
+
 [robby396fs@gmail.com](mailto:robby396fs@gmail.com)
 
 Read the full [Beel Privacy Policy](../).

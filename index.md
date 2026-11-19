@@ -6,11 +6,11 @@ permalink: /
 
 # Beel Privacy Policy
 
-**Effective date:**November 19, 2026
+**Effective date:** November 19, 2026
 
 **Publisher:** Power Ranjer
 
-**Contact:**[robby396fs@gmail.com](mailto:robby396fs@gmail.com)
+**Contact:** [robby396fs@gmail.com](mailto:robby396fs@gmail.com)
 
 Beel helps you record billiards gameplay, create highlights, and organize and share video clips. This policy explains how Beel handles your information.
 
